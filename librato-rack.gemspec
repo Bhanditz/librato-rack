@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "librato/rack/version"
 
 Gem::Specification.new do |s|
-  s.name        = "librato-rack"
+  s.name        = "librato-rack-legacy"
   s.version     = Librato::Rack::VERSION
 
   s.authors     = ["Matt Sanders"]
