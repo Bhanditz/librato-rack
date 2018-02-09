@@ -1,4 +1,4 @@
-module Librato
+module LibratoLegacy
   class Rack
     # Runs a given piece of code periodically, ensuring that
     # it will be run again at the proper interval regardless

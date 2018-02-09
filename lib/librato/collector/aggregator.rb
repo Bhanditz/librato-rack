@@ -1,6 +1,6 @@
 require 'hetchy'
 
-module Librato
+module LibratoLegacy
   class Collector
     # maintains storage of timing and measurement type measurements
     #

@@ -1,6 +1,6 @@
 require 'forwardable'
 
-module Librato
+module LibratoLegacy
   # collects and stores measurement values over time so they can be
   # reported periodically to the Metrics service
   #

@@ -1,6 +1,6 @@
 
 
-module Librato
+module LibratoLegacy
   class Rack
     # Holds configuration for Librato::Rack middleware to use.
     # Acquires some settings by default from environment variables,

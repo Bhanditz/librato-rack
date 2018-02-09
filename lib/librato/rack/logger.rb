@@ -1,6 +1,6 @@
 require 'logger'
 
-module Librato
+module LibratoLegacy
   class Rack
     # Wraps an available logger object and provides convenience
     # methods for logging using a separate set of log levels

@@ -1,4 +1,4 @@
-module Librato
+module LibratoLegacy
   class Collector
     # maintains storage of a set of incrementable, counter-like
     # measurements

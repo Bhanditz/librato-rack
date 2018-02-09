@@ -1,4 +1,4 @@
-module Librato
+module LibratoLegacy
   class Rack
 
     class InvalidLogLevel < RuntimeError; end

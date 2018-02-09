@@ -1,6 +1,6 @@
 require 'socket'
 
-module Librato
+module LibratoLegacy
   class Rack
     class Tracker
       extend Forwardable
@@ -39,7 +39,7 @@ module Librato
 
       # primary collector object used by this tracker
       def collector
-        @collector ||= Librato::Collector.new
+        @collector ||= LibratoLegacy::Collector.new
       end
 
       # log a deprecation message

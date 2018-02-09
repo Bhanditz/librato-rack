@@ -1,4 +1,4 @@
-module Librato
+module LibratoLegacy
   class Rack
     # Queue with special upfront validating logic, this should
     # probably be available in librato-metrics but spiking here
