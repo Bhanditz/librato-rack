@@ -188,11 +188,11 @@ end
 #   end
 # end
 
-require 'librato/collector'
-require 'librato/rack/configuration'
-require 'librato/rack/errors'
-require 'librato/rack/logger'
-require 'librato/rack/tracker'
-require 'librato/rack/validating_queue'
-require 'librato/rack/version'
-require 'librato/rack/worker'
+require 'librato_legacy/collector'
+require 'librato_legacy/rack/configuration'
+require 'librato_legacy/rack/errors'
+require 'librato_legacy/rack/logger'
+require 'librato_legacy/rack/tracker'
+require 'librato_legacy/rack/validating_queue'
+require 'librato_legacy/rack/version'
+require 'librato_legacy/rack/worker'
