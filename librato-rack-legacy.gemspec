@@ -1,6 +1,6 @@
 $:.push File.expand_path("../lib", __FILE__)
 
-require "librato/rack/version"
+require "librato_legacy/rack/version"
 
 Gem::Specification.new do |s|
   s.name        = "librato-rack-legacy"
