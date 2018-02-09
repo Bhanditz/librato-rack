@@ -4,7 +4,7 @@ require "librato/rack/version"
 
 Gem::Specification.new do |s|
   s.name        = "librato-rack-legacy"
-  s.version     = Librato::Rack::VERSION
+  s.version     = LibratoLegacy::Rack::VERSION
 
   s.authors     = ["Matt Sanders"]
   s.email       = ["matt@librato.com"]
