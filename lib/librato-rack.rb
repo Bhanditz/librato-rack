@@ -1,1 +1,1 @@
-require 'librato/rack'
+require 'librato_legacy/rack'
